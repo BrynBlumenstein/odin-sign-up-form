@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Norse Bold';
+    src: url('Norse-Bold.otf') format('opentype');
+}
+
+body {
+    font-family: 'Norse Bold', sans-serif;
+    display: flex;
+    margin: 0;
+    height: 100vh;
+}
